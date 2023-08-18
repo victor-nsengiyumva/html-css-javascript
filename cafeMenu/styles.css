@@ -55,6 +55,9 @@ h2 {
     font-family: Impact, serif;
 }
 
+  /* these goups these 2 blocks and gives them a display on the same line 
+   and then designs them together*/
+
 .item p {
     display: inline-block;
     margin-top: 5px;
