@@ -58,6 +58,9 @@ h2 {
   /* these goups these 2 blocks and gives them a display on the same line 
    and then designs them together*/
 
+ /* for the item below this means that the styling will only be applied to the 
+ p elements withint the item class */
+
 .item p {
     display: inline-block;
     margin-top: 5px;
